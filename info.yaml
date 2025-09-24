@@ -16,8 +16,8 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout: R, S
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
+  ui[0]: "R"
+  ui[1]: "S"
   ui[2]: ""
   ui[3]: ""
   ui[4]: ""
@@ -26,8 +26,8 @@ pinout: R, S
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
+  uo[0]: "1"
+  uo[1]: "2"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""

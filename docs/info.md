@@ -16,4 +16,4 @@ switch on one of the first two switches (Reset and Set) and the LED should do di
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-NAND, NAND
+7 segment display
